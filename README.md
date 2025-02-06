@@ -51,8 +51,6 @@ Welcome to the Paper Weekly E-commerce Platform repository! This project is a we
 
 ## 📂 Project Structure
 
-Paper-weekly-ecom/ ├── css/ │ └── styles.css ├── js/ │ └── scripts.js ├── img/ │ └── product-images/ ├── index.html └── README.md
-
 - **css/**: Contains all CSS files for styling.
 - **js/**: Contains JavaScript files for functionality.
 - **img/**: Contains images used in the project.
