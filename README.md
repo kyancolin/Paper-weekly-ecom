@@ -77,5 +77,4 @@ This project is licensed under the MIT License.
 For any questions or suggestions, feel free to reach out:
 
 - **Name**: Kyan Colin
-- **Email**: [your-email@example.com]
-- **GitHub**: [https://github.com/kyancolin](https://github.com/kyancolin)
+- **Email**: inquiresforkyan@gmail.com
